@@ -1,0 +1,278 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\damia\\Desktop\\JankovZadanieGreenTube\\WalletApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5E8F1EC2-0094-4144-9813-C91FEAC11A74}|WalletApiTests\\WalletApiTests.csproj|c:\\users\\damia\\desktop\\jankovzadaniegreentube\\walletapi\\walletapitests\\walletapitests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E8F1EC2-0094-4144-9813-C91FEAC11A74}|WalletApiTests\\WalletApiTests.csproj|solutionrelative:walletapitests\\walletapitests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E8F1EC2-0094-4144-9813-C91FEAC11A74}|WalletApiTests\\WalletApiTests.csproj|c:\\users\\damia\\desktop\\jankovzadaniegreentube\\walletapi\\walletapitests\\walletapitests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5E8F1EC2-0094-4144-9813-C91FEAC11A74}|WalletApiTests\\WalletApiTests.csproj|solutionrelative:walletapitests\\walletapitests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{042396D3-7787-4BB4-A085-F2729D61DB86}|WalletApi\\WalletApi.csproj|c:\\users\\damia\\desktop\\jankovzadaniegreentube\\walletapi\\walletapi\\controllers\\exposedgameapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{042396D3-7787-4BB4-A085-F2729D61DB86}|WalletApi\\WalletApi.csproj|solutionrelative:walletapi\\controllers\\exposedgameapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{042396D3-7787-4BB4-A085-F2729D61DB86}|WalletApi\\WalletApi.csproj|c:\\users\\damia\\desktop\\jankovzadaniegreentube\\walletapi\\walletapi\\models\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{042396D3-7787-4BB4-A085-F2729D61DB86}|WalletApi\\WalletApi.csproj|solutionrelative:walletapi\\models\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{042396D3-7787-4BB4-A085-F2729D61DB86}|WalletApi\\WalletApi.csproj|c:\\users\\damia\\desktop\\jankovzadaniegreentube\\walletapi\\walletapi\\helper\\playerhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{042396D3-7787-4BB4-A085-F2729D61DB86}|WalletApi\\WalletApi.csproj|solutionrelative:walletapi\\helper\\playerhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{042396D3-7787-4BB4-A085-F2729D61DB86}|WalletApi\\WalletApi.csproj|c:\\users\\damia\\desktop\\jankovzadaniegreentube\\walletapi\\walletapi\\walletapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{042396D3-7787-4BB4-A085-F2729D61DB86}|WalletApi\\WalletApi.csproj|solutionrelative:walletapi\\walletapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{042396D3-7787-4BB4-A085-F2729D61DB86}|WalletApi\\WalletApi.csproj|c:\\users\\damia\\desktop\\jankovzadaniegreentube\\walletapi\\walletapi\\models\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{042396D3-7787-4BB4-A085-F2729D61DB86}|WalletApi\\WalletApi.csproj|solutionrelative:walletapi\\models\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E8F1EC2-0094-4144-9813-C91FEAC11A74}|WalletApiTests\\WalletApiTests.csproj|c:\\users\\damia\\desktop\\jankovzadaniegreentube\\walletapi\\walletapitests\\helper\\walletapihandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E8F1EC2-0094-4144-9813-C91FEAC11A74}|WalletApiTests\\WalletApiTests.csproj|solutionrelative:walletapitests\\helper\\walletapihandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{042396D3-7787-4BB4-A085-F2729D61DB86}|WalletApi\\WalletApi.csproj|c:\\users\\damia\\desktop\\jankovzadaniegreentube\\walletapi\\walletapi\\models\\wallet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{042396D3-7787-4BB4-A085-F2729D61DB86}|WalletApi\\WalletApi.csproj|solutionrelative:walletapi\\models\\wallet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{042396D3-7787-4BB4-A085-F2729D61DB86}|WalletApi\\WalletApi.csproj|c:\\users\\damia\\desktop\\jankovzadaniegreentube\\walletapi\\walletapi\\helper\\wallethelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{042396D3-7787-4BB4-A085-F2729D61DB86}|WalletApi\\WalletApi.csproj|solutionrelative:walletapi\\helper\\wallethelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{042396D3-7787-4BB4-A085-F2729D61DB86}|WalletApi\\WalletApi.csproj|c:\\users\\damia\\desktop\\jankovzadaniegreentube\\walletapi\\walletapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{042396D3-7787-4BB4-A085-F2729D61DB86}|WalletApi\\WalletApi.csproj|solutionrelative:walletapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{042396D3-7787-4BB4-A085-F2729D61DB86}|WalletApi\\WalletApi.csproj|c:\\users\\damia\\desktop\\jankovzadaniegreentube\\walletapi\\walletapi\\models\\dummydatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{042396D3-7787-4BB4-A085-F2729D61DB86}|WalletApi\\WalletApi.csproj|solutionrelative:walletapi\\models\\dummydatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{042396D3-7787-4BB4-A085-F2729D61DB86}|WalletApi\\WalletApi.csproj|c:\\users\\damia\\desktop\\jankovzadaniegreentube\\walletapi\\walletapi\\helper\\dummydatabasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{042396D3-7787-4BB4-A085-F2729D61DB86}|WalletApi\\WalletApi.csproj|solutionrelative:walletapi\\helper\\dummydatabasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{042396D3-7787-4BB4-A085-F2729D61DB86}|WalletApi\\WalletApi.csproj|c:\\users\\damia\\desktop\\jankovzadaniegreentube\\walletapi\\walletapi\\models\\transactions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{042396D3-7787-4BB4-A085-F2729D61DB86}|WalletApi\\WalletApi.csproj|solutionrelative:walletapi\\models\\transactions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{042396D3-7787-4BB4-A085-F2729D61DB86}|WalletApi\\WalletApi.csproj|c:\\users\\damia\\desktop\\jankovzadaniegreentube\\walletapi\\walletapi\\middlewares\\globalexceptionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{042396D3-7787-4BB4-A085-F2729D61DB86}|WalletApi\\WalletApi.csproj|solutionrelative:walletapi\\middlewares\\globalexceptionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{042396D3-7787-4BB4-A085-F2729D61DB86}|WalletApi\\WalletApi.csproj|c:\\users\\damia\\desktop\\jankovzadaniegreentube\\walletapi\\walletapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{042396D3-7787-4BB4-A085-F2729D61DB86}|WalletApi\\WalletApi.csproj|solutionrelative:walletapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 7,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ExposedGameApi.cs",
+              "DocumentMoniker": "C:\\Users\\damia\\Desktop\\JankovZadanieGreenTube\\WalletApi\\WalletApi\\Controllers\\ExposedGameApi.cs",
+              "RelativeDocumentMoniker": "WalletApi\\Controllers\\ExposedGameApi.cs",
+              "ToolTip": "C:\\Users\\damia\\Desktop\\JankovZadanieGreenTube\\WalletApi\\WalletApi\\Controllers\\ExposedGameApi.cs",
+              "RelativeToolTip": "WalletApi\\Controllers\\ExposedGameApi.cs",
+              "ViewState": "AQIAALIAAAAAAAAAAAAcwLwAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T16:28:10.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WalletApiTests.cs",
+              "DocumentMoniker": "C:\\Users\\damia\\Desktop\\JankovZadanieGreenTube\\WalletApi\\WalletApiTests\\WalletApiTests.cs",
+              "RelativeDocumentMoniker": "WalletApiTests\\WalletApiTests.cs",
+              "ToolTip": "C:\\Users\\damia\\Desktop\\JankovZadanieGreenTube\\WalletApi\\WalletApiTests\\WalletApiTests.cs",
+              "RelativeToolTip": "WalletApiTests\\WalletApiTests.cs",
+              "ViewState": "AQIAABUBAAAAAAAAAAAcwEcBAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T20:35:25.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Transaction.cs",
+              "DocumentMoniker": "C:\\Users\\damia\\Desktop\\JankovZadanieGreenTube\\WalletApi\\WalletApi\\Models\\Transaction.cs",
+              "RelativeDocumentMoniker": "WalletApi\\Models\\Transaction.cs",
+              "ToolTip": "C:\\Users\\damia\\Desktop\\JankovZadanieGreenTube\\WalletApi\\WalletApi\\Models\\Transaction.cs",
+              "RelativeToolTip": "WalletApi\\Models\\Transaction.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T19:01:01.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Wallet.cs",
+              "DocumentMoniker": "C:\\Users\\damia\\Desktop\\JankovZadanieGreenTube\\WalletApi\\WalletApi\\Models\\Wallet.cs",
+              "RelativeDocumentMoniker": "WalletApi\\Models\\Wallet.cs",
+              "ToolTip": "C:\\Users\\damia\\Desktop\\JankovZadanieGreenTube\\WalletApi\\WalletApi\\Models\\Wallet.cs",
+              "RelativeToolTip": "WalletApi\\Models\\Wallet.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T19:54:04.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WalletApiHandler.cs",
+              "DocumentMoniker": "C:\\Users\\damia\\Desktop\\JankovZadanieGreenTube\\WalletApi\\WalletApiTests\\Helper\\WalletApiHandler.cs",
+              "RelativeDocumentMoniker": "WalletApiTests\\Helper\\WalletApiHandler.cs",
+              "ToolTip": "C:\\Users\\damia\\Desktop\\JankovZadanieGreenTube\\WalletApi\\WalletApiTests\\Helper\\WalletApiHandler.cs",
+              "RelativeToolTip": "WalletApiTests\\Helper\\WalletApiHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T09:57:38.052Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WalletApi.csproj",
+              "DocumentMoniker": "C:\\Users\\damia\\Desktop\\JankovZadanieGreenTube\\WalletApi\\WalletApi\\WalletApi.csproj",
+              "RelativeDocumentMoniker": "WalletApi\\WalletApi.csproj",
+              "ToolTip": "C:\\Users\\damia\\Desktop\\JankovZadanieGreenTube\\WalletApi\\WalletApi\\WalletApi.csproj",
+              "RelativeToolTip": "WalletApi\\WalletApi.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-07T19:30:02.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\damia\\Desktop\\JankovZadanieGreenTube\\WalletApi\\WalletApi\\Models\\Player.cs",
+              "RelativeDocumentMoniker": "WalletApi\\Models\\Player.cs",
+              "ToolTip": "C:\\Users\\damia\\Desktop\\JankovZadanieGreenTube\\WalletApi\\WalletApi\\Models\\Player.cs",
+              "RelativeToolTip": "WalletApi\\Models\\Player.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T16:59:18.518Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WalletApiTests.csproj",
+              "DocumentMoniker": "C:\\Users\\damia\\Desktop\\JankovZadanieGreenTube\\WalletApi\\WalletApiTests\\WalletApiTests.csproj",
+              "RelativeDocumentMoniker": "WalletApiTests\\WalletApiTests.csproj",
+              "ToolTip": "C:\\Users\\damia\\Desktop\\JankovZadanieGreenTube\\WalletApi\\WalletApiTests\\WalletApiTests.csproj",
+              "RelativeToolTip": "WalletApiTests\\WalletApiTests.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-08T09:57:15.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PlayerHelper.cs",
+              "DocumentMoniker": "C:\\Users\\damia\\Desktop\\JankovZadanieGreenTube\\WalletApi\\WalletApi\\Helper\\PlayerHelper.cs",
+              "RelativeDocumentMoniker": "WalletApi\\Helper\\PlayerHelper.cs",
+              "ToolTip": "C:\\Users\\damia\\Desktop\\JankovZadanieGreenTube\\WalletApi\\WalletApi\\Helper\\PlayerHelper.cs",
+              "RelativeToolTip": "WalletApi\\Helper\\PlayerHelper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T19:07:21.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\damia\\Desktop\\JankovZadanieGreenTube\\WalletApi\\WalletApi\\Program.cs",
+              "RelativeDocumentMoniker": "WalletApi\\Program.cs",
+              "ToolTip": "C:\\Users\\damia\\Desktop\\JankovZadanieGreenTube\\WalletApi\\WalletApi\\Program.cs",
+              "RelativeToolTip": "WalletApi\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T16:29:55.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DummyDatabase.cs",
+              "DocumentMoniker": "C:\\Users\\damia\\Desktop\\JankovZadanieGreenTube\\WalletApi\\WalletApi\\Models\\DummyDatabase.cs",
+              "RelativeDocumentMoniker": "WalletApi\\Models\\DummyDatabase.cs",
+              "ToolTip": "C:\\Users\\damia\\Desktop\\JankovZadanieGreenTube\\WalletApi\\WalletApi\\Models\\DummyDatabase.cs",
+              "RelativeToolTip": "WalletApi\\Models\\DummyDatabase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T19:22:23.247Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "WalletHelper.cs",
+              "DocumentMoniker": "C:\\Users\\damia\\Desktop\\JankovZadanieGreenTube\\WalletApi\\WalletApi\\Helper\\WalletHelper.cs",
+              "RelativeDocumentMoniker": "WalletApi\\Helper\\WalletHelper.cs",
+              "ToolTip": "C:\\Users\\damia\\Desktop\\JankovZadanieGreenTube\\WalletApi\\WalletApi\\Helper\\WalletHelper.cs",
+              "RelativeToolTip": "WalletApi\\Helper\\WalletHelper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T13:02:13.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DummyDatabaseHelper.cs",
+              "DocumentMoniker": "C:\\Users\\damia\\Desktop\\JankovZadanieGreenTube\\WalletApi\\WalletApi\\Helper\\DummyDatabaseHelper.cs",
+              "RelativeDocumentMoniker": "WalletApi\\Helper\\DummyDatabaseHelper.cs",
+              "ToolTip": "C:\\Users\\damia\\Desktop\\JankovZadanieGreenTube\\WalletApi\\WalletApi\\Helper\\DummyDatabaseHelper.cs",
+              "RelativeToolTip": "WalletApi\\Helper\\DummyDatabaseHelper.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAYwAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T13:21:53.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Transactions.cs",
+              "DocumentMoniker": "C:\\Users\\damia\\Desktop\\JankovZadanieGreenTube\\WalletApi\\WalletApi\\Models\\Transactions.cs",
+              "RelativeDocumentMoniker": "WalletApi\\Models\\Transactions.cs",
+              "ToolTip": "C:\\Users\\damia\\Desktop\\JankovZadanieGreenTube\\WalletApi\\WalletApi\\Models\\Transactions.cs",
+              "RelativeToolTip": "WalletApi\\Models\\Transactions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T13:01:14.524Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "GlobalExceptionHandler.cs",
+              "DocumentMoniker": "C:\\Users\\damia\\Desktop\\JankovZadanieGreenTube\\WalletApi\\WalletApi\\Middlewares\\GlobalExceptionHandler.cs",
+              "RelativeDocumentMoniker": "WalletApi\\Middlewares\\GlobalExceptionHandler.cs",
+              "ToolTip": "C:\\Users\\damia\\Desktop\\JankovZadanieGreenTube\\WalletApi\\WalletApi\\Middlewares\\GlobalExceptionHandler.cs",
+              "RelativeToolTip": "WalletApi\\Middlewares\\GlobalExceptionHandler.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwB0AAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T12:27:02.324Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\damia\\Desktop\\JankovZadanieGreenTube\\WalletApi\\WalletApi\\appsettings.json",
+              "RelativeDocumentMoniker": "WalletApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\damia\\Desktop\\JankovZadanieGreenTube\\WalletApi\\WalletApi\\appsettings.json",
+              "RelativeToolTip": "WalletApi\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-07T19:29:53.55Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
