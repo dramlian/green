@@ -12,5 +12,4 @@ name (e.g., "adam") and a generated
 GUID value. These values are
 retrievable through calling /getUsers.
 
-"\coveragereport\idex.html"
 ----------------------------------------
