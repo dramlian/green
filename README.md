@@ -1,4 +1,4 @@
-## A small introduction to the solution
+## Rest API solution for online game
 
 The solution contains two projects, the
 standalone REST API solution together
